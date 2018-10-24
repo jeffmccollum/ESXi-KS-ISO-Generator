@@ -29,7 +29,7 @@ edition of ESXi that is going to be installed.
 For this step, open up your source ISO and copy the BOOT.CFG file to the Files directory. 
 change this line kernelopt= to 
 kernelopt=ks=cdrom:/KS.CFG 
-and safe the file
+and save the file
 
 The manual setup is done now and the script can be run. 
 
